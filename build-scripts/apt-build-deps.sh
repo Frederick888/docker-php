@@ -59,7 +59,8 @@ BUILD_DEPS=" \
     libjpeg8-dev \
     libtiff5-dev \
     libvpx-dev \
-    libxpm-dev
+    libxpm-dev \
+    libzip-dev
   "
 
 function install_apt_deps {
